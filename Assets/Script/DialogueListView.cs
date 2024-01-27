@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DialogueListView : MonoBehaviour
 {
-    public List<Dialogue> DiaglueList { get; set; }
+
 
     // Start is called before the first frame update
     void Start()
