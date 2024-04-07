@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f19320238a4e04ea0844aa219c1c9d, type: 3}
+  m_Name: Dialog
+  m_EditorClassIdentifier: 
+  Entities:
+  - index: 1
+    name: "\uCF54\uD558\uB8E8"
+    dialog: "\uC548\uB155\uD558\uC138\uC694"
+  - index: 2
+    name: "\uBBF8\uC0AC\uD0A4"
+    dialog: welcome
+  - index: 3
+    name: "\uBBF8\uC9C0\uB9C8"
+    dialog: "\uC0AC\uB791\uD569\uB2C8\uB2E4"
+  - index: 4
+    name: "\uCF54\uC0AC\uD0A4"
+    dialog: "\uC548\uB1FD\uD558\uC138\uC694"
+  - index: 5
+    name: "\uBBF8\uD558\uB8E8"
+    dialog: "\uC548\uB2C8\uC601"
+  - index: 6
+    name: "\uC694\uCFE0\uC2DC"
+    dialog: "\uC548\uB2C8\uC6A9"
