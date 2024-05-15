@@ -18,6 +18,10 @@ public class DialogueController : MonoBehaviour
         }
     }
 
+    private void Start()
+    {
+        
+    }
 
     private void Update()
     {
